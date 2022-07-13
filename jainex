@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jain Express Courier</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  </head>
+  <body>
+    <marquee><img src="download.jpg" height="50px"><h2>Jain Express</h2></marquee>
+    <nav class="navbar navbar-expand-lg bg-secondary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"><img src="download.jpg" height="50px"> Jain Express</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://www.justdial.com/Jaipur/Jain-Express-Near-Khasa-Kothi-Circle-Bani-Park/0141P141STDG041014_BZDET" ar>About Us</a>
+              </li>
+              
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Contact Us
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                 
+                  <li><hr class="dropdown-divider"></li>
+                  
+                  <div class="card" style="width: 25rem;">
+                    <img src="download.jpg" class="card-img-top" alt="..." height="200px">
+                    <div class="card-body">
+                      <h5 class="card-title">Jain Express Courier</h5>
+                      <p class="card-text">Contact Number-9314081842,0141-4101842 <br> Email-jainexpressscourier@yahoo.com <br> Address-G-4,Adarsh Plaza,Khasa Kothi Circle,Jaipur</p>
+                      <a href="#" class="btn btn-primary" target="_self">More info</a>
+                    </div>
+                  </div>  
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Services</a>
+              </li>
+              
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+
+      <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" class="active" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" class="active" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="photo_6228688682672566876_y.jpg" height="500px" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <button type="button" class="btn btn-primary">Click here for more info</button>
+              
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="Slider5.jpg" height="500px" class="d-block w-100" alt="..." >
+            <div class="carousel-caption d-none d-md-block">
+                <button type="button" class="btn btn-primary">Click here for services</button>
+              
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="slider4.jpg" height="500px" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <button type="button" class="btn btn-primary">Click here for more booking</button>
+              
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+      <nav id="navbar-example2" class="navbar bg-secondary px-3">
+        
+        <a class="navbar-brand" href="#"><img src="download.jpg" height="50px"><h2>Jain Express</h2></a>
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a class="nav-link" href="#scrollspyHeading1">About us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#scrollspyHeading2">Services</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Contact us</a>
+            <ul class="dropdown-menu">
+              <img src="download.jpg" class="card-img-top" alt="..." height="200px">
+                    <div class="card-body">
+                      <h5 class="card-title">Jain Express Courier</h5>
+                      <p class="card-text">Contact Number-9314081842,0141-4101842 <br> Email-jainexpressscourier@yahoo.com <br> Address-G-4,Adarsh Plaza,Khasa Kothi Circle,Jaipur</p>
+                     
+                    </div>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+        <h4 id="scrollspyHeading1">About us</h4>
+        <p><h6>Jain Express Courier Service in Lal Kothi, Jaipur</h6><br>
+          Jain Express Courier Service in Jaipur. Domestic Courier Services with Address, Contact Number, Photos, Maps. View Jain Express Courier Service, Jaipur on Justdial.
+          
+          For logistics solutions, Jain Express Courier Service in Lal Kothi, Jaipur is a well-known name. In the due course of time, this venture has displayed sheer commitment its vision of becoming a reliable and preferred service partner for their growing base of clients. This firm envisions to build long-term business relations by understanding their client's needs and providing them with tailor-made solutions. Banking on its well-connected network, this organisation is able to offer cost-efficient, hassle-free and prompt logistics solutions. Locate this place with ease with Khasa Khothi Cle as a noticeable landmark. Undoubtedly it is one of the best Courier Services in Lal Kothi, Jaipur.</p>
+        <h4 id="scrollspyHeading2">Services</h4>
+        <p><h6>Services offered at Jain Express Courier Service</h6>
+
+          Jain Express Courier Service in Lal Kothi offers various products and services to cater to the requirements of its clients. Customers can send documents, parcels and other consignments through standard delivery or via priority delivery, which is for time-sensitive and urgent consignments. This firm caters to doorstep pick up and delivery for most its services. This office is operational from 09:30 - from Monday to Saturday.
+          
+          Scroll up to view the address and contact details of Jain Express Courier Service in Lal Kothi, Jaipur.
+          <br><br><h4 style="background-color:dimgray">Frequently Asked Question</h4><br>
+          1. Which is the nearest landmark ?<br>
+          You can easily locate the establishment as it is in close proximity to Khasa Khothi Circle ,Bani Park
+          <br>
+          2. What are its hours of operation ?<br>
+          The establishment is functional on <br>
+          Monday:- 8:30 Am - 10:00 Pm <br>
+          Tuesday:- 8:30 Am - 10:00 Pm <br>
+          Wednesday:- 8:30 Am - 10:00 Pm <br>
+          Thursday:- 8:30 Am - 10:00 Pm <br>
+          Friday:- 8:30 Am - 10:00 Pm <br>
+          Saturday:- 8:30 Am - 10:00 Pm <br>
+          Sunday:- Closed
+        </p>
+        <h4 id="scrollspyHeading3">Contact Us</h4>
+        <p><img src="download.jpg" class="card-img-top" alt="..." height="200px" width="20px">
+          <div class="card-body">
+          <h5 class="card-title">Jain Express Courier</h5>
+          <p class="card-text">Contact Number-9314081842,0141-4101842 <br> Email-jainexpressscourier@yahoo.com <br> Address-G-4,Adarsh Plaza,Khasa Kothi Circle,Jaipur</p>
+          
+        </div></p>
+        
+      </div>
+    
+    </body>
+</html>
